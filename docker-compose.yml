@@ -5,9 +5,9 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: booking
-      MYSQL_USER: booking
-      MYSQL_PASSWORD: booking
+      MYSQL_DATABASE: nest
+      MYSQL_USER: nestjs
+      MYSQL_PASSWORD: nestjs
     ports:
       - 3306:3306
     volumes:
