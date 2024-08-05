@@ -1,4 +1,4 @@
-# NestJS Domain Driven Development
+# NestJS Domain Driven Design
 
 ## Prerequisites
 
