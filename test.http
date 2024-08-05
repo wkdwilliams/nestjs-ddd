@@ -1,0 +1,6 @@
+PATCH http://localhost:4002/campers/1
+Content-Type: "application/json"
+
+{
+    "allergies": ["test"]
+}
